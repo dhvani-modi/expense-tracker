@@ -1,0 +1,5 @@
+expense-env/
+__pycache__/
+*.pyc
+*.db
+New Text Document.txt
